@@ -1,0 +1,4 @@
+cd C:\Users\Louk\Desktop\Django\REST_ari
+env\Scripts\activate.bat
+cd rest_api_louk
+python manage.py runserver
